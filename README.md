@@ -122,9 +122,3 @@ The final optimized output will be inside the **build/** folder.
 Pull requests and suggestions are welcome!  
 Create an issue for any feature or improvement you want to discuss.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
